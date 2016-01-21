@@ -248,3 +248,8 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+#frame {.l-branding {display:none}}
+#info {.l-branding {display:none}}
+
+iframe. l-branding{display: none}
